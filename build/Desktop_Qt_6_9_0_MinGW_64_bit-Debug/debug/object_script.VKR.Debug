@@ -1,0 +1,12 @@
+debug/fileselector.o
+debug/getmodel.o
+debug/main.o
+debug/modelselection.o
+debug/processingmodels.o
+debug/savepage.o
+debug/settingspage.o
+debug/writemodel.o
+debug/moc_fileselector.o
+debug/moc_modelselection.o
+debug/moc_savepage.o
+debug/moc_settingspage.o

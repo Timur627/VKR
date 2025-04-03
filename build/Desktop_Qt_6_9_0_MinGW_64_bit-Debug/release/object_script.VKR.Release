@@ -1,0 +1,12 @@
+release/fileselector.o
+release/getmodel.o
+release/main.o
+release/modelselection.o
+release/processingmodels.o
+release/savepage.o
+release/settingspage.o
+release/writemodel.o
+release/moc_fileselector.o
+release/moc_modelselection.o
+release/moc_savepage.o
+release/moc_settingspage.o
